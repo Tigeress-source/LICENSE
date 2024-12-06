@@ -7,7 +7,7 @@ name: Step 1, Create a branch
 # Reference: https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
 on:
   workflow_dispatch:
-  create:
+  create:my.first.branch
 
 # Reference: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
